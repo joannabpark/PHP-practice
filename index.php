@@ -29,7 +29,7 @@
                     ['name'=> 'green shell', 'price'=> 10],
                     ['name'=> 'red shell', 'price'=> 15],
                     ['name'=> 'gold coin', 'price'=> 5],
-                    ['name'=> 'lightning bolt', 'price'=> 40],
+                    ['name'=> 'lightning bolt', 'price'=> 50],
                     ['name'=> 'banana skin', 'price'=> 3]
                 ];
 ?>
