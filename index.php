@@ -11,7 +11,18 @@
     // echo 5 <= 5;
     // echo 5 >= 10;
 
+    // echo 'shaun' < 'yoshi';
+    // echo 'shaun' > 'yoshi';
+    // echo 'shaun' > 'Shaun'; uppercase letter is less than lowercase
+    // echo 'mario' == 'mario';    
+    // echo 'mario' == 'Mario';   
     
+    // echo 5 === '5';
+    // echo 5 == '5';
+    // echo 5 === 5;
+
+    // echo true == '1';
+    // echo false == '';
     
 ?>
 
